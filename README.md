@@ -4,7 +4,7 @@ Define business questions:
 - total revenue, total profit, profit margin?
 - Which sales channel drives the most revenue?
 - Which products sell the most units vs. generate the most revenue?
-- Which products have the hightest margin?
+- Which products have the highest margin?
 - Which warehouses handle the most volume?
 - How long does it take from order -> ship -> delivery on average?
 - Which regions outperform?
