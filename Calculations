@@ -1,0 +1,6 @@
+Calculations:
+Revenue Per Order: UnitPrice*OrderQuantity*(1-DiscountApplied) -> Total Revenue= SUM(RevenuePerOrderCells)
+Cost Per Order: UnitCost*OrderQuantity -> Total Cost: SUM(CostPerOrderCells)
+Profit per Order: Revenue - Cost -> Total profit: TotalRevenue-TotalCost
+Profit Margin Per Order: Profit/Revenue -> Total Profit Margin: Total Profit/ Total Revenue
+Revenue Lost to Discounts: SUM(UnitPriceCells*OrderQuantityCells*DiscountAppliedCells)
