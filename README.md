@@ -1,5 +1,5 @@
 # Supply-Chain-Analysis-Project
-In this project, I will find a dataset on Kaggle and clean data, analyze trends, create kpi's and pivot tables, and make a dashboard to provide a deep analysis on said data.
+In this project, I will find a dataset on Kaggle and clean data, analyze trends, create kpis, and make a dashboard to provide a deep analysis on said data.
 Define business questions: 
 - total revenue, total profit, profit margin?
 - Which sales channel drives the most revenue?
